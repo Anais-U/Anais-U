@@ -1,4 +1,5 @@
-👋 ¡Hola! Soy Anais, una entusiasta de la tecnología desde que aparecieron los primeros celulares inteligentes. Desde entonces, me he dedicado a aprender sobre el tema de manera autodidacta, siempre con la curiosidad y el deseo de explorar lo último en innovación.
+## 👋 ¡Hola Mundo! Mi nombre es Anais Urra , 
+Soy una entusiasta de la tecnología desde que aparecieron los primeros celulares inteligentes. Desde entonces, me he dedicado a aprender sobre el tema de manera autodidacta, siempre con la curiosidad y el deseo de explorar lo último en innovación.
 
 🌿 En 2020, decidí explorar un camino distinto y me sumergí en el mundo de las terapias alternativas, especializándome en masajes terapéuticos y ventosaterapia. Esta experiencia me llevó a descubrir mi interés por el diseño, el community management y el marketing digital, creando una fanpage en Facebook llamada Soul Terapias.
 
@@ -12,3 +13,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Diseño y Marketing:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-%233E99EE.svg?style=for-the-badge&logo=Facebook&logoColor=white)
