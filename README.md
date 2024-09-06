@@ -22,14 +22,14 @@ I’ve been a tech enthusiast since the first smartphones appeared. Since then, 
 
 🐾 In my free time, I enjoy spending time with my family and my “fur babies,” who are an essential part of my life.
 
-## 💻 Tecnologías:
-## 💻 technologies:
+## 💻 Tecnologías / ## 💻 technologies:
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Diseño y Marketing:
-### Design and Marketing :
+### Diseño y Marketing / ### Design and Marketing :
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-%233E99EE.svg?style=for-the-badge&logo=Facebook&logoColor=white)
